@@ -4,4 +4,4 @@
 A Master Plan was created with the objective of starting a project. We were pruposed to build a recreational center, event venue or anything that would help revitalize douglas.
 
 ## Site Location
-![image](https://imgur.com/a/zxnauxi)
+![image](imgur.com/a/zxnauxi)
