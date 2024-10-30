@@ -14,5 +14,12 @@ This was the lot assigned to us. We had to use it to make a recreational center.
 After we designed the Master Plan on paper, we translated that on to AutoCAD. The drawing on paper was done to scale, so that we could plan out the building, the size of the parking lot, and also, so that we could see how to integrate greenery into our buildings.   
 
 ## Master Plan Renderings
+<img src="https://i.ibb.co/fvXNhxc/Recreation-Center-6.png" alt="Sketchup Rendering">
+
+> Sketchup
+
+<img src="https://i.ibb.co/rGG6R0h/Render-6.jpg" alt="Ai Rendering">
+
+> Ai
 
 After designing the Master Plan in AutoCAD, we modeled the entire space in Sketchup. In the previous images, one image is the sketchup view, and the other is the rendered image. Since the Ai is very basic, and time didn't allow for proper renderings, the renderings may be inaccurate compared to the sketchup image. 
